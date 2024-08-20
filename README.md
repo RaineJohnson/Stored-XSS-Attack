@@ -1,0 +1,1 @@
+This code demonstrates how not to secure an application from Stored XSS Attacks. Always ensure to sanitize input, and be aware of how you are storing data. There are many different methods to storing data but you need to be aware of each of their vulnerabilities.
